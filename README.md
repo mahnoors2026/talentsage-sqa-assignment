@@ -1,2 +1,21 @@
-# talentsage-sqa-assignment
-test tasks
+Why you Automated these tests?
+
+I automated the login and job creation tests because they are core functionalities that need to test their reliablity. Automated these tests save time by running them quickly without manual efforts and eliminating human errors. It supports the regression testing and automating these tests keeps the application stable and saves testers from repetitive work.
+
+What you automate next?
+
+I would automate new features that such as:
+
+Form submissions for candidate applications.
+
+Role-based access management to verify roles and permissions.
+
+Dashboard validation to ensure that the data is displayed accurate.
+
+What should remain manual and why
+
+The automation cannot fully evaluate human experience and unexpected behaivour. UI Design is better assessed by humans to understand the overall look and feel of the product. Exploratory testing relies on human thinking and experience. Adhoc experience involves randomly checking the application to identify the issues.
+
+For example:
+
+The application uses AI that depends on user input. Humans must verify the AI results from a user prespective to ensure accuracy.
